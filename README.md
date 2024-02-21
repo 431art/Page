@@ -1,2 +1,2 @@
-# Page
+# page
 Webpage on github.io
